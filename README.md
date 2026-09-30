@@ -15,7 +15,8 @@ int main()
     d=x;
     x=y;
     y=d;
-    cout << "x = " << x << ", y = " << y << endl;
+    cout << "x: " << x << endl;
+    cout << "y: " << y << endl;
 
     return 0;
 }
